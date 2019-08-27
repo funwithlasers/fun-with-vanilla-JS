@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1bcdc98-a9e6-4e9b-9738-faf772376911" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>class</find>
+      <find>map</find>
+      <find>co</find>
+      <find>gen</find>
+      <find>contains</find>
+      <find>cur</find>
+      <find>size</find>
+      <find>&quot;a&quot;</find>
+      <find>check</find>
+      <find>keydo</find>
+      <find>addev</find>
+      <find>render p</find>
+      <find>addEvent</find>
+      <find>alert</find>
+      <find>remov</find>
+      <find>oncl</find>
+      <find>aler</find>
+      <find>case</find>
+      <find>window</find>
+      <find>Inter</find>
+      <find>food</find>
+      <find>step</find>
+      <find>zone</find>
+      <find>visi</find>
+      <find>visa</find>
+      <find>.css</find>
+      <find>100</find>
+      <find>key</find>
+      <find>numFo</find>
+      <find>ameOver</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>PM</replace>
+      <replace>var</replace>
+      <replace>squanchy</replace>
+      <replace>snakeBody</replace>
+      <replace>let</replace>
+    </replaceStrings>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="19" />
+    <option name="y" value="48" />
+    <option name="width" value="1400" />
+    <option name="height" value="768" />
+  </component>
+  <component name="ProjectId" id="1PegMybYjWBNMVcwtzzlaDqFCfN" />
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/mjlarson13/WebstormProjects/SkillCrush/Snake/index.html" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.Maze">
+    <configuration name="Maze" type="JavascriptDebugType" uri="http://localhost:63342/SkillCrush/Maze/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="SCClock.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SkillCrush/Clock/SCClock.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="Snake" type="JavascriptDebugType" uri="http://localhost:63342/SkillCrush/Snake/index.html">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.Maze" />
+      <item itemvalue="JavaScript Debug.Snake" />
+      <item itemvalue="JavaScript Debug.SCClock.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.SCClock.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1bcdc98-a9e6-4e9b-9738-faf772376911" name="Default Changelist" comment="" />
+      <created>1541466162820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541466162820</updated>
+      <workItem from="1541466164303" duration="14529000" />
+      <workItem from="1541729127157" duration="7997000" />
+      <workItem from="1542050183764" duration="255000" />
+      <workItem from="1542053232557" duration="629000" />
+      <workItem from="1542086838349" duration="1898000" />
+      <workItem from="1542088798044" duration="2356000" />
+      <workItem from="1542397782546" duration="7486000" />
+      <workItem from="1543187418921" duration="245000" />
+      <workItem from="1543195127385" duration="4579000" />
+      <workItem from="1543213518516" duration="6974000" />
+      <workItem from="1543267678633" duration="4249000" />
+      <workItem from="1543347570535" duration="206000" />
+      <workItem from="1543361245751" duration="28839000" />
+      <workItem from="1543542614352" duration="2554000" />
+      <workItem from="1543787003531" duration="3483000" />
+      <workItem from="1543885078959" duration="3870000" />
+      <workItem from="1543979565447" duration="2567000" />
+      <workItem from="1544125994867" duration="1091000" />
+      <workItem from="1544395578797" duration="6589000" />
+      <workItem from="1550191079648" duration="773000" />
+      <workItem from="1550631509612" duration="14000" />
+      <workItem from="1566239933470" duration="381000" />
+      <workItem from="1566926966815" duration="205000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="snake.css">
+    <title>Snake Game</title>
+</head>
+<body>
+    <div id="gradient"></div>
+
+    <div id="page">
+
+        <div id="gameOver">
+e
+
+                <input id="okBtn" type="button" onclick="acceptEndGame('gameOver')" value="Continue" />
+            </div>
+        </div>
+        <div id="scoreZone"> </div>
+        <div id="menuContainer">
+            <select id="levelSelector">
+                <option value="-1">Select Difficulty</option>
+                <option value="3">Easy</option>
+                <option value="2">Medium</option>
+                <option value="1">Hard</option>
+                <option value="0">Very Hard</option>
+            </select>
+            <input id="startButton" type="button" onclick="startGame()" value="Start" />
+        </div>
+        <div id="view>">
+            <div id="snakeGame">
+                <canvas id="snakeCanvas" width="500" height="500"></canvas>
+            </div>
+        </div>
+        <script type="text/javascript" src="snake.js"></script>
+
+    </div>
+</body>
